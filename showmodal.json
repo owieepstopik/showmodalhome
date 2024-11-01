@@ -1,0 +1,26 @@
+[
+  {
+    "judul": "Judul Pertama",
+    "content": "Ini adalah konten untuk judul pertama. Konten ini menjelaskan topik tertentu.",
+    "gambar": "",
+    "showmodal": 1
+  },
+  {
+    "judul": "Judul Kedua",
+    "content": "Ini adalah konten untuk judul kedua. Konten ini menjelaskan topik yang berbeda.",
+    "gambar": "",
+    "showmodal": 0
+  },
+  {
+    "judul": "Judul Ketiga",
+    "content": "Ini adalah konten untuk judul ketiga. Konten ini memberikan informasi tambahan.",
+    "gambar": "",
+    "showmodal": 1
+  },
+  {
+    "judul": "Judul Keempat",
+    "content": "Ini adalah konten untuk judul keempat. Konten ini menjelaskan lebih lanjut tentang topik yang ada.",
+    "gambar": "",
+    "showmodal": 0
+  }
+]
